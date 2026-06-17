@@ -1,4 +1,5 @@
 # NSE Equity Scorecard — Combined FA + TA Buy/Sell Signal Tracker
+![Dashboard Screenshot](dashboard_screenshot.png)
 
 A Python-based equity screening tool that scores 15 NSE-listed stocks across 9 sectors using a combined Fundamental Analysis (FA) and Technical Analysis (TA) framework, producing a weighted Buy/Hold/Sell signal for each stock.
 

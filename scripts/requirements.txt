@@ -5,3 +5,6 @@ matplotlib
 seaborn
 pandas-ta-classic
 openpyxl
+#git remote add originhttps://github.com/jack31fin/nse-equity-scorecard.git
+#git branch -M main
+#git push -u origin main
